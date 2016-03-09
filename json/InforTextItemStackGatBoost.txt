@@ -51,7 +51,7 @@
 	{
 		"assign": "3500100000",
 		"jp_text": "海岸ハギの塩焼き",
-		"en_text": "Beach Broiled Clover",
+		"en_text": "Beach Grilled Bush Clover",
 		"jp_explain": "魚に塩を振って焼いたシンプルな料理。\n【１分間】果物取得率＋５０％\n追加採取率＋５％\n<yellow>同種の料理は効果が上書きされます。<c>",
 		"en_explain": ""
 	},
